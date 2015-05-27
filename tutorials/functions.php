@@ -14,4 +14,9 @@ function f00($par1, $param2, $param3 = "standardwert") {
 
 f00(1,2);
 
+$peng = function($param) {
+  echo "anonymous function...";
+  echo $param;
+}
+$peng("sis")
 ?>
