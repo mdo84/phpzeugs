@@ -1,13 +1,7 @@
 <?php 
-function peng($zahl)  {
-echo "<html>";
-echo "<head>"
-echo "  <title>peng</title>";
-echo "</head>";
-echo "<body>";
+
+function peng($zahl) {
 echo $zahl;
-echo "</body>";
-echo "</html>";
 }
 
 peng(23434523459);
