@@ -17,7 +17,7 @@ f00(1,2);
 $peng = function($param) {
   echo "anonymous function...";
   echo $param;
-}
+};
 
-$peng('sis')
+$peng('sis');
 ?>
