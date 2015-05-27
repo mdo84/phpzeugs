@@ -21,8 +21,8 @@ $peng = function($param) {
 
 $peng('sis');
 
-if (function_exists($peng)) {
-  $peng('sis');
+if (function_exists("f00")) {
+  f00(1,2);
 }
 
 
